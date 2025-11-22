@@ -1,0 +1,5 @@
+{
+  "name": "ProHeadshot AI",
+  "description": "Generate professional, high-quality headshots from a single selfie using Gemini's advanced multimodal capabilities.",
+  "requestFramePermissions": []
+}
